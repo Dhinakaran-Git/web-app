@@ -1,0 +1,1 @@
+export const BASE_URL = "https://dev.lakshmikrishnanaturals.com/admin/api/v1";
